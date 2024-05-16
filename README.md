@@ -10,4 +10,4 @@ Meu nome é Vitória Manieri
 
 00001114518025sp@al.educacao.sp.gov.br
 
-<img src="https://media1.tenor.com/m/qV7Ehfs0el4AAAAd/simon-henriksson-cry-of-fear.gif" alt="Simon Henriksson Cry Of Fear GIF - Simon Henriksson Cry Of Fear GIFs"/>![image](https://github.com/MCvitao/MCvitao/assets/169314967/70ed6987-5b6b-4d43-a3cd-2b20e76fc69e)
+<div class="tenor-gif-embed" data-postid="12204408119944837726" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/simon-henriksson-cry-of-fear-gif-12204408119944837726">Simon Henriksson Cry Of Fear GIF</a>from <a href="https://tenor.com/search/simon+henriksson-gifs">Simon Henriksson GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
