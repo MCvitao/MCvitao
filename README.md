@@ -4,7 +4,7 @@ Meu nome é Vitória Manieri
 - Estudando na [Alura].
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
-
+- Adoro bastante jogos de terror
 
 ### Você pode entrar em contato comigo 📫
 
